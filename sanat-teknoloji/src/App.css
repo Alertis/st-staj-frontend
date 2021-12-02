@@ -1,0 +1,33 @@
+:root {
+  --leftTop: #6601da;
+  --rightBottom: #a701ee;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+p {
+  margin: 0;
+}
+
+.aside {
+  background: rgb(167, 1, 238);
+  background: linear-gradient(
+    0deg,
+    rgba(167, 1, 238, 1) 0%,
+    rgba(102, 1, 218, 1) 100%
+  );
+  height: 98vh;
+  padding: 0;
+}
+.main-page {
+  padding: 0;
+}

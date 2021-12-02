@@ -1,0 +1,18 @@
+.user-list-body tr {
+  border-radius: 10px;
+}
+.user-list-body tr:nth-child(odd) {
+  background-color: #f8fafb;
+}
+.user-list-body tr td {
+  padding: 15px 10px;
+}
+.user-list-body tr td:first-child {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.user-list-head tr th {
+  padding: 15px 10px;
+}

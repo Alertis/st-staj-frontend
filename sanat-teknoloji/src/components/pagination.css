@@ -1,0 +1,14 @@
+.pagination i {
+  font-size: 1.3rem;
+  margin: 0px 15px;
+  cursor: pointer;
+}
+.pagination-page-number {
+  color: black;
+  text-align: center;
+  margin: 0px 10px;
+  background-color: #eef2f5;
+  padding: 5px 5px;
+  width: 35px;
+  border-radius: 5px;
+}
