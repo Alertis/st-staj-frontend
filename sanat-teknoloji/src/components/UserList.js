@@ -6,7 +6,7 @@ export default function UserList({ users, loading }) {
     return <h1>Loading...</h1>;
   }
   return (
-    <div className="pt-5">
+    <div className="pt-1">
       <table className="w-100 user-list-table">
         <thead className="user-list-head ">
           <tr className="text-muted">
